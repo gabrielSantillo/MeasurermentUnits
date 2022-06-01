@@ -1,13 +1,21 @@
 #div_1 {
     background-color: aquamarine;
-    width: 10cm;
-    height: 10cm;
+    width: 50vw;
+    height: 50vh;
+}
+
+#p1 {
+    font-size: 2rem;
 }
 
 #div_2 {
-    background-color: rebeccapurple;
-    width: 10mm;
-    height: 10mm;
+    background-color: rgb(151, 136, 165);
+    width: 50vw;
+    height: 50vh;
+}
+
+#p2 {
+    font-size: 2em;
 }
 
 #div_3 {
@@ -26,10 +34,4 @@
     background-color: olive;
     width: 10pt;
     height: 10pt;
-}
-
-#div_6 {
-    background-color: firebrick;
-    width: 10pc;
-    height: 10pc;
 }
